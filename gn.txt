@@ -1,7 +1,7 @@
 0.说明,#genre#
 [gn] ver.2020.02.28v4,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 (带▲号限区域),http://60.255.149.248/tslive/c214_scc_20190618_pr3jsp04_original_r10/c214_scc_20190618_pr3jsp04_original_r10.m3u8&
-TG频道 t.me/tvsason,http://140.249.30.36/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+TG频道 t.me/tvsason,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 A.央视,#genre#
 CCTV-1 综合 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 CCTV-2 财经 FHD,http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
